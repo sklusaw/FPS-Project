@@ -1,0 +1,4 @@
+C:\Users\Scott\Documents\Visual Studio 2010\Projects\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - KlusawContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\unouser\Desktop\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - KlusawContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\unouser\Desktop\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - KlusawContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - KlusawContent\obj\x86\Debug\ResolveAssemblyReference.cache

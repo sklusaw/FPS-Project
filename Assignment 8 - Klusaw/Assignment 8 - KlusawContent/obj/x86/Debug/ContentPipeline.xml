@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>spaceship.x</Source>
+      <Name>spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\spaceship.xnb</Output>
+      <Time>2012-12-06T12:53:26.7437128-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\spaceship_0.xml</Key>
+        <Value>2012-12-06T12:53:40.7057373-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Flame.x</Source>
+      <Name>Flame</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\Flame.xnb</Output>
+      <Time>2012-12-06T12:53:26.3693121-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Flame_0.xml</Key>
+        <Value>2012-12-06T12:53:41.2205382-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlamePaint_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>flameThrower.x</Source>
+      <Name>flameThrower</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\flameThrower.xnb</Output>
+      <Time>2012-12-06T12:53:26.4473123-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\flameThrower_0.xml</Key>
+        <Value>2012-12-06T12:53:41.9849396-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlameThrowerPaint_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>launcher.x</Source>
+      <Name>launcher</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\launcher.xnb</Output>
+      <Time>2012-12-06T12:53:26.4941123-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\launcher_0.xml</Key>
+        <Value>2012-12-06T12:53:42.7493409-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\LauncherPaint_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>missile.x</Source>
+      <Name>missile</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2012-12-06T12:53:26.5409124-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\missile_0.xml</Key>
+        <Value>2012-12-06T12:53:43.4981422-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\MissilePainted_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>orb.x</Source>
+      <Name>orb</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\orb.xnb</Output>
+      <Time>2012-12-06T12:53:26.5721125-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\orb_0.xml</Key>
+        <Value>2012-12-06T12:53:44.0441432-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\OrbPaint_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Robot.x</Source>
+      <Name>Robot</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\Robot.xnb</Output>
+      <Time>2012-12-06T12:53:26.6501126-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Robot_0.xml</Key>
+        <Value>2012-12-06T12:53:45.6041459-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\RobotPaint_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Volcano_HeightMap.png</Source>
+      <Name>Volcano_HeightMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\Volcano_HeightMap.xnb</Output>
+      <Time>2012-12-06T12:53:26.7593128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Volcano_T.png</Source>
+      <Name>Volcano_T</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\Volcano_T.xnb</Output>
+      <Time>2012-12-06T12:53:26.7749128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Volcano_Texture.png</Source>
+      <Name>Volcano_Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\Volcano_Texture.xnb</Output>
+      <Time>2012-12-06T12:53:26.7905129-06:00</Time>
+    </Item>
+    <Item>
+      <Source>rocketcross.png</Source>
+      <Name>rocketcross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\rocketcross.xnb</Output>
+      <Time>2012-12-06T12:53:26.7125127-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FlameCross.png</Source>
+      <Name>FlameCross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlameCross.xnb</Output>
+      <Time>2012-12-06T12:53:26.4161122-06:00</Time>
+    </Item>
+    <Item>
+      <Source>life.png</Source>
+      <Name>life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\life.xnb</Output>
+      <Time>2012-12-06T12:53:26.5409124-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2012-12-06T12:53:26.3381121-06:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket.png</Source>
+      <Name>rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\rocket.xnb</Output>
+      <Time>2012-12-06T12:53:26.7125127-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FlamePaint.png</Source>
+      <Name>FlamePaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlamePaint.xnb</Output>
+      <Time>2012-12-06T12:53:26.4317122-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FlameThrowerPaint.png</Source>
+      <Name>FlameThrowerPaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlameThrowerPaint.xnb</Output>
+      <Time>2012-12-06T12:53:26.4785123-06:00</Time>
+    </Item>
+    <Item>
+      <Source>LauncherPaint.png</Source>
+      <Name>LauncherPaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\LauncherPaint.xnb</Output>
+      <Time>2012-12-06T12:53:26.5253124-06:00</Time>
+    </Item>
+    <Item>
+      <Source>MissilePainted.png</Source>
+      <Name>MissilePainted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\MissilePainted.xnb</Output>
+      <Time>2012-12-06T12:53:26.5565125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>OrbPaint.png</Source>
+      <Name>OrbPaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\OrbPaint.xnb</Output>
+      <Time>2012-12-06T12:53:26.5877125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>RobotPaint.png</Source>
+      <Name>RobotPaint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\RobotPaint.xnb</Output>
+      <Time>2012-12-06T12:53:26.6969127-06:00</Time>
+    </Item>
+    <Item>
+      <Source>spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\spaceship_0.xml</Output>
+      <Time>2012-12-06T12:53:26.7437128-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Flame.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Flame_0.xml</Output>
+      <Time>2012-12-06T12:53:26.3693121-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FlamePaint.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlamePaint_0.xnb</Output>
+      <Time>2012-12-06T12:53:26.4317122-06:00</Time>
+    </Item>
+    <Item>
+      <Source>flameThrower.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\flameThrower_0.xml</Output>
+      <Time>2012-12-06T12:53:26.4473123-06:00</Time>
+    </Item>
+    <Item>
+      <Source>FlameThrowerPaint.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\FlameThrowerPaint_0.xnb</Output>
+      <Time>2012-12-06T12:53:26.4785123-06:00</Time>
+    </Item>
+    <Item>
+      <Source>launcher.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\launcher_0.xml</Output>
+      <Time>2012-12-06T12:53:26.4941123-06:00</Time>
+    </Item>
+    <Item>
+      <Source>LauncherPaint.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\LauncherPaint_0.xnb</Output>
+      <Time>2012-12-06T12:53:26.5253124-06:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\missile_0.xml</Output>
+      <Time>2012-12-06T12:53:26.5409124-06:00</Time>
+    </Item>
+    <Item>
+      <Source>MissilePainted.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\MissilePainted_0.xnb</Output>
+      <Time>2012-12-06T12:53:26.5565125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>orb.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\orb_0.xml</Output>
+      <Time>2012-12-06T12:53:26.5721125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>OrbPaint.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\OrbPaint_0.xnb</Output>
+      <Time>2012-12-06T12:53:26.5877125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Robot.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Robot_0.xml</Output>
+      <Time>2012-12-06T12:53:26.6501126-06:00</Time>
+    </Item>
+    <Item>
+      <Source>RobotPaint.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\RobotPaint_0.xnb</Output>
+      <Time>2012-12-06T12:53:26.6969127-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - KlusawContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - KlusawContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\unouser\Desktop\Assignment 8 - Klusaw (2)\Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-18T09:32:43.7311987-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

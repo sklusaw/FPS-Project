@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 8 - Klusaw", "Assignment 8 - Klusaw\Assignment 8 - Klusaw\Assignment 8 - Klusaw.csproj", "{3F8A9146-0C1A-4A15-845C-84425590CECC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Assignment 8 - KlusawContent", "Assignment 8 - Klusaw\Assignment 8 - KlusawContent\Assignment 8 - KlusawContent.contentproj", "{D2F8270D-CF3D-4FF1-8256-4FD2E2827D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8A9146-0C1A-4A15-845C-84425590CECC}.Debug|x86.ActiveCfg = Debug|x86
+		{3F8A9146-0C1A-4A15-845C-84425590CECC}.Debug|x86.Build.0 = Debug|x86
+		{3F8A9146-0C1A-4A15-845C-84425590CECC}.Release|x86.ActiveCfg = Release|x86
+		{3F8A9146-0C1A-4A15-845C-84425590CECC}.Release|x86.Build.0 = Release|x86
+		{D2F8270D-CF3D-4FF1-8256-4FD2E2827D4F}.Debug|x86.ActiveCfg = Debug|x86
+		{D2F8270D-CF3D-4FF1-8256-4FD2E2827D4F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
